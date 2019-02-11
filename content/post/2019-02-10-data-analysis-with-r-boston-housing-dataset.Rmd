@@ -3,12 +3,9 @@ title: Data Analysis with R, Boston Housing Dataset
 author: Nghia Le
 date: '2019-02-10'
 slug: data-analysis-with-r-boston-housing-dataset
-categories: []
-tags:
-  - plot
-  - R Markdown
-  - regression
----
+categories: [R]
+tags: ["R Markdown", "plot", "regression"]
+  ---
 ### **I. Introduction**
 
 This report aims to do two things. First we will do analysis on the crime rate and portion of population with lower status in Boston, second we will try do predict Boston house value.
