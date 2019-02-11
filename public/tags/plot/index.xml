@@ -6,10 +6,21 @@
     <description>Recent content in Plot on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 30 Dec 2016 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/tags/plot/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data Analysis with R, Boston housing dataset</title>
+      <link>/2016/12/30/data-analysis-with-r-boston-housing-dataset/</link>
+      <pubDate>Fri, 30 Dec 2016 21:13:14 -0500</pubDate>
+      
+      <guid>/2016/12/30/data-analysis-with-r-boston-housing-dataset/</guid>
+      <description>I. IntroductionThis report aims to do two things. First we will do analysis on the crime rate and portion of population with lower status in Boston, second we will try do predict Boston house value.
+library(MASS)Bostonattach(Boston)The Boston data frame has 506 rows and 14 columns (predictors). We have descriptions and summaries of predictors as follow:
+crim: per capita crime rate by town.</description>
+    </item>
     
     <item>
       <title>Hello R Markdown</title>
@@ -17,17 +28,6 @@
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/2015/07/23/hello-r-markdown/</guid>
-      <description>I. IntroductionThis report aims to do two things. First we will do analysis on the crime rate and portion of population with lower status in Boston, second we will try do predict Boston house value.
-library(MASS)Bostonattach(Boston)The Boston data frame has 506 rows and 14 columns (predictors). We have descriptions and summaries of predictors as follow:
-crim: per capita crime rate by town.</description>
-    </item>
-    
-    <item>
-      <title>Data Analysis with R, Boston housing dataset</title>
-      <link>/1/01/01/data-analysis-with-r-boston-housing-dataset/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/1/01/01/data-analysis-with-r-boston-housing-dataset/</guid>
       <description>I. IntroductionThis report aims to do two things. First we will do analysis on the crime rate and portion of population with lower status in Boston, second we will try do predict Boston house value.
 library(MASS)Bostonattach(Boston)The Boston data frame has 506 rows and 14 columns (predictors). We have descriptions and summaries of predictors as follow:
 crim: per capita crime rate by town.</description>

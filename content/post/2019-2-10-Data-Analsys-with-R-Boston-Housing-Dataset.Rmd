@@ -1,7 +1,7 @@
 ---
 title: "Data Analysis with R, Boston housing dataset"
 author: "Nghia Le"
-date: 2019-2-10T21:13:14-05:00
+date: 2016-12-30T21:13:14-05:00
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
 ---
