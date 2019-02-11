@@ -1,0 +1,11 @@
+---
+title: Data Analysis with R, Boston Housing Dataset
+author: Nghia Le
+date: '2019-02-10'
+slug: data-analysis-with-r-boston-housing-dataset
+categories: []
+tags:
+  - plot
+  - R Markdown
+  - regression
+---
